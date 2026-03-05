@@ -1,0 +1,6 @@
+syntax: glob
+.godot/
+*.orig
+*.DS_Store
+*.tmp
+*.cfg
