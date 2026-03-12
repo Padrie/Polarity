@@ -14,7 +14,7 @@
 
 <h2 align="left">Contributions</h2>
 
-This project was made in a team of 8, while on the engineering side we had 2 people, my teammate [Tom](https://github.com/Tom-Schueler), who was resposible checkpoint and saving logic, and general gameplay, and me, for gravity manipulation, player movement and special obstacles.
+This project was made in a team of 8, while on the engineering side we had 2 people, my teammate [Tom](https://github.com/Tom-Schueler), who was resposible checkpoint and saving logic, and general gameplay, and me, for gravity manipulation, player movement and special obstacles.e
 
 <h2 align="left">My Responsibility</h2>
 
